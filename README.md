@@ -9,6 +9,8 @@
 - Inside Godot Engine, set the renderer to 'Mobile' if it wasn't done so already.
 
 ## Primary Authors
-- [Abir Islam](https://github.com/abirislam)
-- [Kevin Nguyen](https://github.com/kevin-nguyen7)
-- [Shahriyar Shawon](https://github.com/shahriyarshawon)
+- Developer: [Abir Islam](https://github.com/abirislam)
+- Developer: [Kevin Nguyen](https://github.com/kevin-nguyen7)
+- Developer: [Shahriyar Shawon](https://github.com/shahriyarshawon)
+- Artist: Phuoc Nguyen
+- Artist: Diana Nguyen
