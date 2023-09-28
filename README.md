@@ -12,5 +12,5 @@
 - Developer: [Abir Islam](https://github.com/abirislam)
 - Developer: [Kevin Nguyen](https://github.com/kevin-nguyen7)
 - Developer: [Shahriyar Shawon](https://github.com/shahriyarshawon)
-- Artist: Phuoc Nguyen
+- Artist: [Phuoc Nguyen](https://github.com/saltedbanana)
 - Artist: Diana Nguyen
