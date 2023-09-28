@@ -9,13 +9,15 @@
 - Inside Godot Engine, set the renderer to 'Mobile' if it wasn't done so already.
 
 ## Current To-Do List
+### Home Tabs
 - Login Screen
 - Game Main Screen (Home)
--- Should include Options, Heroes, Home, Battle, and Shop
-- Options Screen
-- Heroes Screen
+- Options Screen (volume and other)
+- Heroes Screen (shows all units and allows to make active team)
 - Battle Screen (allow for chapter select)
-- Shop Screen
+- Shop Screen (purchase currency)
+- Summon Screen (summon units)
+### Technical Things
 - Battle algorithm
 - Chapter design
 -- For first release, we will aim for 25 levels, Chapter 1-1 to 1-5 as an example.
